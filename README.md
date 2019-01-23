@@ -105,3 +105,5 @@ Penulisan file README.md berbasis teks, dan untuk pemformatannya menggunakan Mar
 
 dan ini contoh contoh Screenshotnya
 ![tugas github](https://user-images.githubusercontent.com/46511665/51580702-ff455500-1ef7-11e9-8ff1-72a9c65640a0.png)
+![ss2](https://user-images.githubusercontent.com/46511665/51580772-4c292b80-1ef8-11e9-94f5-03be84870394.png)
+![ss3](https://user-images.githubusercontent.com/46511665/51580773-4cc1c200-1ef8-11e9-9229-07ea13ba787c.png)
