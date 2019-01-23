@@ -104,3 +104,4 @@ Pada file tersebut kita dapat membuat dokumentasi awal dari setiap project yang 
 Penulisan file README.md berbasis teks, dan untuk pemformatannya menggunakan Markdown format.
 
 dan ini contoh contoh Screenshotnya
+![tugas github](https://user-images.githubusercontent.com/46511665/51580702-ff455500-1ef7-11e9-8ff1-72a9c65640a0.png)
